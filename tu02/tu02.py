@@ -1,5 +1,5 @@
-text_Body_show = "Hello world"
-print(text_Body_show)
+text_Body_Show = "Hello world"
+print(text_Body_Show)
 # Try to use meaningful name for variable
 # variable is case sensitive
 # Variable can be start with capital letter or small letter or underscore
