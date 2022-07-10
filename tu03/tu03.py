@@ -1,5 +1,5 @@
 # python basic data types: number,string,Boolean,list,tuple
-# 1) number : 1)interger 2) float 3)complex
+# number : 1)interger 2) float 3)complex
 
 
 int_example = 26

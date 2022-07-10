@@ -1,3 +1,4 @@
+# variable
 text_Body_Show = "Hello world"
 print(text_Body_Show)
 # Try to use meaningful name for variable
