@@ -1,4 +1,4 @@
-# python basic data types: number,string,Boolean,list,tuple
+# python basic data types: number,string,Boolean,list,tuple,dictionary
 # number : 1)interger 2) float 3)complex
 
 
